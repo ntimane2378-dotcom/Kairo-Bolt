@@ -1,0 +1,2 @@
+[functions.stock-data]
+verify_jwt = true
